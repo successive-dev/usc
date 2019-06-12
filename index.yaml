@@ -3,11 +3,21 @@ entries:
   user-service:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-12T12:23:59.910066745+05:30
+    created: 2019-06-12T19:44:04.130728583+05:30
     description: A Helm chart for Kubernetes
-    digest: 701106c2dd961a29bf87051231befbeab89d7f88218606fff3f75614fe119a80
+    digest: 6daee2cf44dd91f28fdb456d1e3630f7ccecec9322dcff990857ecf8264dc272
     name: user-service
     urls:
     - https://successive-dev.github.io/usc/user-service-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-12T12:23:59.909471626+05:30
+  user-service-updated:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-06-12T19:44:04.130991592+05:30
+    description: A Helm chart for Kubernetes
+    digest: de7f5fc0c53b2065882628a0a4818b061b72bf9e16dd89c3f135ef23a1bfcd00
+    name: user-service-updated
+    urls:
+    - https://successive-dev.github.io/usc/user-service-updated-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-06-12T19:44:04.130338866+05:30
